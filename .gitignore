@@ -1,0 +1,9 @@
+# One-Liner Laughs — build leftovers for this single-joke entry
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+.DS_Store
+/output/
+*.tmp
+*.swp
